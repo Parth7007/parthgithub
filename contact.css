@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    padding-bottom: 10px;
+    
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+h1{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#email{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+#oemail{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px; 
+    font-size: 30px;  
+}
+
+.insta{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+}
+
+.linkdin{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    margin-top: 50px;
+}
+
+#insta{
+    text-align: center;
+    font-size: 50px;
+}
+
+#linkdin{
+    text-align: center;
+    font-size: 50px;
+}
